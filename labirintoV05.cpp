@@ -590,8 +590,6 @@ int main()
 } //fim main//fases: boxxle 2: #1, #2 e #3.
 //o que melhorar no código?
 //Principamente, remover variáveis estáticas
-//Nas coordenadas, professor sugeriu vetorizar
+//Nas coordenadas, professor sugeriu usar um vetor
 //para as matrizes, ele sugeriu fazer uma função separada para a declaração de mapas
-//no mais, ele disse que o tamanho das funções está bom
-//não é necessário explicar o código do cursor
-//fazer melhorias em uma outra versão
+//fazer melhorias em uma outra versão --> Implementado na versao 06
