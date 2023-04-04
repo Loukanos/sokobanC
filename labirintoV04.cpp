@@ -291,4 +291,4 @@ int main()
     menu();
 
     return 0;
-} //fim main//peguei o boxxle 2: 1, 2 e 3/checar tabela ascii para ver os caracteres disponíveis(informação não pertinente ao código)
+} //fim main
