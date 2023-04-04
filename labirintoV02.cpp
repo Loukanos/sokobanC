@@ -1,6 +1,7 @@
 /**
     Estrutura inicial para um jogo de labirinto
     versão: 0.2 (Lucas)
+    Nessa versão foi adicionada colisão e movimento de caixas
 */
 #include<iostream>
 #include<windows.h>
