@@ -5,7 +5,7 @@
 #include<iostream>
 #include<windows.h>
 #include<conio.h>
-
+//código inicial do labirinto, fornecido pelo professor
 using namespace std;
 
 int main()
